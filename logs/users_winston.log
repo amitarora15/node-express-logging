@@ -1,0 +1,10 @@
+2020-05-03T19:52:12.302Z info: server started running on port - 4000
+2020-05-03T19:52:23.036Z debug: Getting user whose id is 1 
+2020-05-03T19:52:23.509Z debug: Getting user whose id is 1 
+2020-05-03T19:53:25.895Z info: server started running on port - 4000
+2020-05-03T19:53:31.196Z info: server started running on port - 4000
+2020-05-03T19:53:37.427Z debug: Creating user where email is amit.arora15@gmail.com, fName is Amit, lName is Amit
+2020-05-03T19:54:54.745Z info: server started running on port - 4000
+2020-05-03T19:55:03.062Z info: server started running on port - 4000
+2020-05-03T19:55:30.227Z info: server started running on port - 4000
+2020-05-03T19:56:45.329Z info: server started running on port - 4000
