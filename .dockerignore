@@ -1,0 +1,6 @@
+.git/
+.idea/
+logs/
+node_modules/
+*.iml
+.gitignoredoic
