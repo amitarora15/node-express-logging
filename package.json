@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-pino-logger": "^5.0.0",
     "node-postgres": "^0.1.4",
     "pg": "^8.0.3",
